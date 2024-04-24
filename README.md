@@ -1,10 +1,4 @@
-About Robot Folder
-----------------------------------------------------------------------------------------------------------
-This program is For Arduino Uno.
-Change The Ports As you need for your Robot
+This all folders are my projects 
 
-There Still No Need For BT File you can remove it on download.
 
-There will be more versions soon
-
-----------------------------------------------------------------------------------------------------------
+_______________________________________________________________________________________
