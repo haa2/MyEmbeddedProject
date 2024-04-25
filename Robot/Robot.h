@@ -9,8 +9,7 @@ void LeftMotor();
 void RightMotor();
 void StopMotor();
 
-void setupBT();
-void loopBT();
+
 
 
 
