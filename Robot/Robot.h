@@ -9,7 +9,8 @@ void LeftMotor();
 void RightMotor();
 void StopMotor();
 
-
+void IRsetup();
+void incomingByte();
 
 
 
